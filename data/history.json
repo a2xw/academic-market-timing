@@ -763,5 +763,94 @@
         "timing_score": 49.7
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "fields": [
+      {
+        "slug": "computer-science-ai",
+        "jobs": 299,
+        "sentiment_score": 57.1,
+        "pressure_index": 49.8,
+        "timing_score": 50.2
+      },
+      {
+        "slug": "health-medical",
+        "jobs": null,
+        "sentiment_score": 45.4,
+        "pressure_index": 51.3,
+        "timing_score": 48.7
+      },
+      {
+        "slug": "engineering",
+        "jobs": null,
+        "sentiment_score": 57.0,
+        "pressure_index": 48.0,
+        "timing_score": 52.0
+      },
+      {
+        "slug": "physical-environmental",
+        "jobs": null,
+        "sentiment_score": 54.6,
+        "pressure_index": 48.7,
+        "timing_score": 51.3
+      },
+      {
+        "slug": "biology",
+        "jobs": 273,
+        "sentiment_score": 55.0,
+        "pressure_index": 50.4,
+        "timing_score": 49.6
+      },
+      {
+        "slug": "math-statistics",
+        "jobs": null,
+        "sentiment_score": 51.5,
+        "pressure_index": 49.6,
+        "timing_score": 50.4
+      },
+      {
+        "slug": "psychology",
+        "jobs": 126,
+        "sentiment_score": 52.0,
+        "pressure_index": 52.8,
+        "timing_score": 47.2
+      },
+      {
+        "slug": "business-management",
+        "jobs": null,
+        "sentiment_score": 48.4,
+        "pressure_index": 50.4,
+        "timing_score": 49.6
+      },
+      {
+        "slug": "social-sciences",
+        "jobs": 51,
+        "sentiment_score": 52.2,
+        "pressure_index": 44.2,
+        "timing_score": 55.8
+      },
+      {
+        "slug": "economics-finance",
+        "jobs": 75,
+        "sentiment_score": 39.8,
+        "pressure_index": 45.2,
+        "timing_score": 54.8
+      },
+      {
+        "slug": "politics-government",
+        "jobs": null,
+        "sentiment_score": 54.2,
+        "pressure_index": 48.8,
+        "timing_score": 51.2
+      },
+      {
+        "slug": "humanities",
+        "jobs": 0,
+        "sentiment_score": 48.8,
+        "pressure_index": 50.3,
+        "timing_score": 49.7
+      }
+    ]
   }
 ]
