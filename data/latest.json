@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T18:46:22Z",
-  "date": "2026-11-05",
+  "generated_at": "2026-11-06T17:59:25Z",
+  "date": "2026-11-06",
   "status": "live_snapshot",
   "macro": {
     "education_openings_rate": null,
@@ -9,10 +9,10 @@
   },
   "model": {
     "confidence": 90,
-    "market_score": 53.9,
-    "market_forecast_30d": 56.0,
-    "market_forecast_90d": 59.6,
-    "history_days": 33,
+    "market_score": 54.4,
+    "market_forecast_30d": 56.6,
+    "market_forecast_90d": 60.7,
+    "history_days": 34,
     "note": "Mature daily panel: timing forecasts use up to the latest 30 observations with bounded trend extrapolation."
   },
   "sources": {
@@ -24,13 +24,13 @@
     {
       "slug": "computer-science-ai",
       "name": "Computer Science & AI",
-      "jobs": 369,
-      "sentiment_score": 57.6,
-      "pressure_index": 37.1,
-      "timing_score": 62.9,
-      "forecast_30d": 70.8,
-      "forecast_90d": 86.7,
-      "job_momentum": 15.59,
+      "jobs": 379,
+      "sentiment_score": 58.5,
+      "pressure_index": 35.8,
+      "timing_score": 64.2,
+      "forecast_30d": 73.4,
+      "forecast_90d": 91.9,
+      "job_momentum": 17.91,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
         "news_items": 33,
@@ -44,8 +44,24 @@
       "sentiment_score": 51.5,
       "pressure_index": 49.6,
       "timing_score": 50.4,
-      "forecast_30d": 51.4,
-      "forecast_90d": 53.4,
+      "forecast_30d": 51.6,
+      "forecast_90d": 53.9,
+      "job_momentum": null,
+      "source_note": "jobs.ac.uk + news sentiment",
+      "coverage": {
+        "news_items": 36,
+        "community_items": 0
+      }
+    },
+    {
+      "slug": "engineering",
+      "name": "Engineering & Technology",
+      "jobs": null,
+      "sentiment_score": 58.5,
+      "pressure_index": 47.6,
+      "timing_score": 52.4,
+      "forecast_30d": 52.8,
+      "forecast_90d": 53.8,
       "job_momentum": null,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
@@ -54,47 +70,31 @@
       }
     },
     {
-      "slug": "engineering",
-      "name": "Engineering & Technology",
-      "jobs": null,
-      "sentiment_score": 57.9,
-      "pressure_index": 47.8,
-      "timing_score": 52.2,
-      "forecast_30d": 52.6,
-      "forecast_90d": 53.5,
-      "job_momentum": null,
-      "source_note": "jobs.ac.uk + news sentiment",
-      "coverage": {
-        "news_items": 34,
-        "community_items": 0
-      }
-    },
-    {
       "slug": "physical-environmental",
       "name": "Physical & Environmental Sciences",
       "jobs": null,
-      "sentiment_score": 48.7,
-      "pressure_index": 50.4,
-      "timing_score": 49.6,
-      "forecast_30d": 48.5,
-      "forecast_90d": 46.4,
+      "sentiment_score": 50.0,
+      "pressure_index": 50.0,
+      "timing_score": 50.0,
+      "forecast_30d": 48.7,
+      "forecast_90d": 46.2,
       "job_momentum": null,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
-        "news_items": 15,
+        "news_items": 13,
         "community_items": 0
       }
     },
     {
       "slug": "biology",
       "name": "Biological Sciences",
-      "jobs": 355,
+      "jobs": 357,
       "sentiment_score": 52.0,
-      "pressure_index": 37.8,
-      "timing_score": 62.2,
-      "forecast_30d": 75.7,
+      "pressure_index": 37.9,
+      "timing_score": 62.1,
+      "forecast_30d": 75.6,
       "forecast_90d": 100.0,
-      "job_momentum": 17.58,
+      "job_momentum": 17.36,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
         "news_items": 34,
@@ -108,12 +108,12 @@
       "sentiment_score": 50.0,
       "pressure_index": 50.0,
       "timing_score": 50.0,
-      "forecast_30d": 49.7,
-      "forecast_90d": 49.1,
+      "forecast_30d": 49.6,
+      "forecast_90d": 48.9,
       "job_momentum": null,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
-        "news_items": 34,
+        "news_items": 35,
         "community_items": 0
       }
     },
@@ -122,11 +122,11 @@
       "name": "Psychology",
       "jobs": 121,
       "sentiment_score": 51.9,
-      "pressure_index": 52.9,
-      "timing_score": 47.1,
-      "forecast_30d": 42.5,
-      "forecast_90d": 33.2,
-      "job_momentum": -4.22,
+      "pressure_index": 52.7,
+      "timing_score": 47.3,
+      "forecast_30d": 43.0,
+      "forecast_90d": 34.4,
+      "job_momentum": -4.02,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
         "news_items": 34,
@@ -137,11 +137,11 @@
       "slug": "business-management",
       "name": "Business & Management",
       "jobs": null,
-      "sentiment_score": 49.3,
-      "pressure_index": 50.2,
-      "timing_score": 49.8,
-      "forecast_30d": 49.8,
-      "forecast_90d": 49.8,
+      "sentiment_score": 50.0,
+      "pressure_index": 50.0,
+      "timing_score": 50.0,
+      "forecast_30d": 50.0,
+      "forecast_90d": 50.1,
       "job_momentum": null,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
@@ -152,32 +152,32 @@
     {
       "slug": "social-sciences",
       "name": "Sociology, Demography & Social Sciences",
-      "jobs": 81,
-      "sentiment_score": 51.4,
-      "pressure_index": 33.9,
-      "timing_score": 66.1,
-      "forecast_30d": 79.1,
+      "jobs": 82,
+      "sentiment_score": 52.6,
+      "pressure_index": 33.6,
+      "timing_score": 66.4,
+      "forecast_30d": 78.7,
       "forecast_90d": 100.0,
-      "job_momentum": 36.98,
+      "job_momentum": 36.14,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
-        "news_items": 9,
+        "news_items": 10,
         "community_items": 0
       }
     },
     {
       "slug": "economics-finance",
       "name": "Economics & Finance",
-      "jobs": 75,
+      "jobs": 78,
       "sentiment_score": 49.7,
-      "pressure_index": 44.8,
-      "timing_score": 55.2,
-      "forecast_30d": 50.0,
-      "forecast_90d": 39.6,
-      "job_momentum": 6.58,
+      "pressure_index": 42.3,
+      "timing_score": 57.7,
+      "forecast_30d": 53.7,
+      "forecast_90d": 45.6,
+      "job_momentum": 10.27,
       "source_note": "jobs.ac.uk + news sentiment",
       "coverage": {
-        "news_items": 35,
+        "news_items": 36,
         "community_items": 0
       }
     },
